@@ -1,0 +1,5 @@
+task.pdf
+model_parameters.txt
+.venv
+.idea
+.DS_Store
